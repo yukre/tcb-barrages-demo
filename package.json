@@ -16,7 +16,8 @@
   "dependencies": {
     "@cloudbase/vue-provider": "^0.1.0",
     "tcb-js-sdk": "^1.7.1",
-    "vue": "^2.6.11"
+    "vue": "^2.6.11",
+    "vue-baberrage": "^3.2.4"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
