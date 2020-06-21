@@ -1,10 +1,17 @@
 {
-  "envId": "ericxy-967b23",
+  "envId": "elontcb-14630a",
   "functionRoot": "./functions",
   "functions": [
     {
-      "name": "app",
-      "timeout": 5,
+      "name": "getBarrages",
+      "timeout": 15,
+      "runtime": "Nodejs10.15",
+      "memorySize": 128,
+      "handler": "index.main"
+    },
+    {
+      "name": "sendBarrage",
+      "timeout": 15,
       "runtime": "Nodejs10.15",
       "memorySize": 128,
       "handler": "index.main"

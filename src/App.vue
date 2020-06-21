@@ -29,14 +29,14 @@ html, body {
   position: relative;
   width: 100%;
   height: 100%;
-  margin: 0;
+  margin: 0px;
+  padding: 0px;
 }
 
 #app {
   position: relative;
   width: 100%;
   height: 100%;
-  margin-top: 60px;
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
