@@ -6,8 +6,6 @@
 
 <script>
 /* eslint-disable no-unused-vars */
-import Video from './components/Video'
-import HelloWorld from './components/HelloWorld'
 import Barrages from './components/Barrages'
 
 export default {
